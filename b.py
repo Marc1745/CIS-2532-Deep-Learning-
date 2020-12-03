@@ -2,6 +2,10 @@
 Marc McCann
 12/2/20
 This program uses a neural networks
+
+
+This program was taken from Github repository:
+https://github.com/josephlee94/intuitive-deep-learning
 '''
 
 
